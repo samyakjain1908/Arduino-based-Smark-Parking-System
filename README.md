@@ -11,3 +11,7 @@ ii.) Slot 2 data doesn't get updated in the Blynk IoT Cloud.
 iii.) The LCD screen sometimes shows the wrong data on the screen.
 
 ![Demo model](https://user-images.githubusercontent.com/89599623/227024346-dc884335-fea9-4b91-9307-73f8755b989e.jpeg)
+
+![image](https://user-images.githubusercontent.com/89599623/227026545-5e61f12c-4e23-4b35-83e5-d7a0e8deab15.png)
+
+![phone blynk info](https://user-images.githubusercontent.com/89599623/227026651-71dda712-ab3f-4389-bcca-6b55432b7448.jpeg)
