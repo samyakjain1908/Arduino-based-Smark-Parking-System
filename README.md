@@ -9,3 +9,5 @@ Present challenges:
 i.) The servo motor is not responding as required. It glitches due to a lack of power input.
 ii.) Slot 2 data doesn't get updated in the Blynk IoT Cloud. 
 iii.) The LCD screen sometimes shows the wrong data on the screen.
+
+![Demo model](https://user-images.githubusercontent.com/89599623/227024346-dc884335-fea9-4b91-9307-73f8755b989e.jpeg)
