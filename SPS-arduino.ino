@@ -76,7 +76,7 @@ void loop()
     lcd.print("S2:Emp");
   }
 
-  if (digitalRead(ir_enter) == 0 && flag1 == 0) {
+  if (digitalRead(ir_enter) == 0 && flag1 == 0) { //servo motor code
   if (slot > 0) {
     flag1 = 1;
     if (flag2 == 0) {
